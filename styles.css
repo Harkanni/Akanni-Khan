@@ -189,9 +189,5 @@ form {
   max-width: 100%;
   height: auto;
 }
-In the above example, the #img-div container is set to have a maximum width of 100% of its parent container, and its height adjusts automatically to maintain the aspect ratio of the image. The #image itself is also set to have a maximum width of 100% of its parent container, and its height adjusts accordingly.
-
-This way, when the parent container (e.g., the <div> with id img-div) is resized, the image will responsively adjust its width while maintaining its original aspect ratio, without exceeding its original size.
-
 
 
